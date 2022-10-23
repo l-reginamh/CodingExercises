@@ -4,13 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a04e21e6-a47d-4b69-bef4-e1b0ca100b3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise001.java" afterDir="false" />
+    <list default="true" id="a04e21e6-a47d-4b69-bef4-e1b0ca100b3a" name="Changes" comment="commit exercise 001">
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise002/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise002/MegaBytesConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise003/BarkingDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise003/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise004/LeapYearCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise004/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise005/DecimalComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise005/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise006/EqualSumChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise006/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise007/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise007/TeenNumberChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise008/AreaCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise008/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise009/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise009/MinutesToYearsDaysCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise010/IntEqualityPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise010/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise011/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise011/PlayingCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise012/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise012/NumberInWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise013/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise013/NumberOfDaysInMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise014/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise014/SumOddRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise015/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise015/NumberPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise016/FirstLastDigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise017/EvenDigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise018/SharedDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise019/LastDigitChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise020/GreatestCommonDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise021/FactorPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise022/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise023/NumberToWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise024/FlourPacker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise025/LargestPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise026/DiagonalStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise027/InputCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise028/PaintJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +67,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GXSlmo3TFSEw0OLGWS5UFpohCf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,9 +78,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/regina.min.huei.liew/Desktop/CodingExercise/CodingExercises001"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/regina.min.huei.liew/Desktop/CodingExercises/src/main/java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\regina.min.huei.liew\Desktop\CodingExercises\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exercise002" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercise001.Main" />
@@ -72,6 +119,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666533591475</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit exercise 001">
+      <created>1666534141822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666534141823</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,5 +154,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit exercise 001" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit exercise 001" />
   </component>
 </project>
