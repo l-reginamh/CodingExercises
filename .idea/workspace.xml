@@ -4,48 +4,93 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a04e21e6-a47d-4b69-bef4-e1b0ca100b3a" name="Changes" comment="commit exercise 001">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise002/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise002/MegaBytesConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise003/BarkingDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise003/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise004/LeapYearCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise004/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise005/DecimalComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise005/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise006/EqualSumChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise006/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise007/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise007/TeenNumberChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise008/AreaCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise008/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise009/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise009/MinutesToYearsDaysCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise010/IntEqualityPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise010/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise011/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise011/PlayingCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise012/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise012/NumberInWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise013/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise013/NumberOfDaysInMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise014/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise014/SumOddRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise015/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise015/NumberPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise016/FirstLastDigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise017/EvenDigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise018/SharedDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise019/LastDigitChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise020/GreatestCommonDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise021/FactorPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise022/PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise023/NumberToWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise024/FlourPacker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise025/LargestPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise026/DiagonalStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise027/InputCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise028/PaintJob.java" afterDir="false" />
+    <list default="true" id="a04e21e6-a47d-4b69-bef4-e1b0ca100b3a" name="Changes" comment="commit exercise 029 - 040">
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise001/001-SpeedConverter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise002/002-MegaBytesConverter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise003/003-BarkingDog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise004/004-LeapYearCalculator.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise005/005-DecimalComparator.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise006/006-EqualSumChecker.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise007/007-TeenNumberChecker.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise008/008-AreaCalculator.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise009/009-MinutesToYearsAndDaysCalculator.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise010/010-EqualityPrinter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise011/011-PlayingCat.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise012/012-NumberInWord.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise013/013-NumberOfDaysInMonth.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise014/014-SumOdd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise015/015-NumberPalindrome.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise016/016-FirstAndLastDigitSum.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise017/017-EvenDigitSum.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise018/018-SharedDigit.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise019/019-LastDigitChecker.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise020/020-GreatestCommonDivisor.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise021/021-AllFactors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise022/022-PerfectNumber.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise023/023-NumberToWords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise024/024-FlourPackProblem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise025/025-LargestPrime.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise026/026-DiagonalStar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise027/027-InputCalculator.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise028/028-PaintJob.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise029/029-SumCalculator.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise030/030-Person.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise031/031-WallArea.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise032/032-Point.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise033/033-CarpetCostCalculator.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise034/034-ComplexOperations.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise035/035-Cylinder.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise036/036-PoolArea.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise037/037-Composition.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise038/038-Encapsulation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise039/039-Polymorphism.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise040/040-Bill'sBurgers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise041/041-SortedArray.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise041/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise041/SortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise042/042-MinimumElement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise042/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise042/MinimumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise043/043-ReverseArray.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise043/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise043/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise044/044-MobilePhone.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise044/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise044/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise045/045-Banking.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise045/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise045/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise045/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise045/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise046/046-Playlist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise046/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise046/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise046/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise047/047-Interface.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise047/ISaveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise047/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise047/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise047/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise048/048-Playlist-InnerClass.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise048/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise048/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise048/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise049/049-AbstractClass.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise049/ListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise049/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise049/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise049/NodeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise049/SearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise050/050-AdventureGame.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise050/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise050/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise051/051-ImmutableClass.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise051/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise052/052-Sets.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise052/DwarfPlanet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise052/HeavenlyBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise052/Moon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise052/Planet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +101,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -76,27 +122,81 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/regina.min.huei.liew/Desktop/CodingExercises/src/main/java"
+    "last_opened_file_path": "C:/Users/regina.min.huei.liew/Desktop/CodingExercises/src/main/java/exercise048"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\regina.min.huei.liew\Desktop\CodingExercises\src\main\java\exercise048" />
       <recent name="C:\Users\regina.min.huei.liew\Desktop\CodingExercises\src\main\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="exercise002" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise001.Main" />
+      <option name="MAIN_CLASS_NAME" value="exercise048.Main" />
       <module name="CodingExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise001.*" />
+          <option name="PATTERN" value="exercise048.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise042.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise042.Main" />
+      <module name="CodingExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise042.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise043.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise043.Main" />
+      <module name="CodingExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise043.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise045.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise045.Main" />
+      <module name="CodingExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise045.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise046.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise046.Main" />
+      <module name="CodingExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise046.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,6 +207,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.exercise046.Main" />
+        <item itemvalue="Application.exercise045.Main" />
+        <item itemvalue="Application.exercise043.Main" />
+        <item itemvalue="Application.exercise042.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +230,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666534141823</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit exercise 002 - 028">
+      <created>1666534928129</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666534928129</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit exercise 029 - 040">
+      <created>1666535062542</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666535062542</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,7 +274,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit exercise 001" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit exercise 001" />
+    <MESSAGE value="commit exercise 002 - 028" />
+    <MESSAGE value="commit exercise 029 - 040" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit exercise 029 - 040" />
   </component>
 </project>
